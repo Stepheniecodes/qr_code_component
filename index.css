@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300;400&family=Lato:wght@300&family=Outfit&family=Roboto:wght@300&display=swap');
+
+.attribution{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+
+
+body{
+font-family: 'Outfit', sans-serif;
+background-color: black;
+}
+
+img{
+width: 180px;
+border-radius: 5px;
+}
+
+.firstcontainer{
+background-color: white;
+max-width: 1100px;
+margin: 10px auto;
+padding: 20px 20px;
+box-sizing: border-box;
+
+}
+
+
+.container{
+    max-width: 700px;
+    background-color:hsl(212, 45%, 89%);
+    text-align: center;
+    margin: 100px auto;
+    padding: 100px 120px;
+    border-radius: 5px;
+    box-sizing: border-box;
+   
+}
+
+.firstlayer{
+    background-color: white;
+    padding: 10px;
+    max-width: 180px;
+    height: 320px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 15px;
+
+}
+
+.heading{
+    font-weight: 700;
+}
+
+.subtitle{
+    font-weight: 400;
+    font-size:x-small;
+    color: hsl(210, 5%, 41%);
+}
+
